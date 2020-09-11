@@ -6,7 +6,7 @@ openBSE 是一个一个高性能 JavaScript 弹幕引擎，简单易用。支持
 
 ## 点击进入相应版本文档
 
-[2.0](2.0) [2.0-Beta](2.0-Beta) [2.1](2.1) [3.0](3.0)
+[2.0](2.0) [2.0-Beta](2.0-Beta) [2.1](2.1) [3.0](3.0) [3.1](3.1)
 
 ## 版权声明
 这个项目是一个开源项目，遵循 MIT 开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/openBSE-docs/blob/master/LICENSE)。
